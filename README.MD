@@ -1,1 +1,1 @@
-[![YuKang's github stats](https://github-readme-stats.vercel.app/api?username=dakang824&count_private=true&show_icons=true)](https://dakang824.github.io)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dakang824.dakang824.github.io)
