@@ -64,7 +64,7 @@ module.exports = {
       link: 'https://github.com/dakang824' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
-      avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/5HjjnLYsOvWaQiajNs4Fia4KUE1MF2jmux2U6oDwJicU6TwfTLOqBeUmFmzu8aRfAR8XGf2Vha65E5AgBicL6OOhXw/132',
+      avatar: 'https://dakang824.github.io/imgs/folder_a/132.jpg',
       name: 'YU Kang',
       slogan: '前端界的小学生'
     },
